@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bluratch
 - 👀 I’m interested in coding of websites.
-- 🌱 I’m currently learning css.
-- 💞️ I’m looking to collaborate on javascript.
+- 🌱 I’m currently learning javascript.
+- 💞️ I’m looking to collaborate on .
 - 📫 How to reach me edeigbaosamudiamen@gmail.com, +234 802 802 9445, on Youtube- Bluratch...
 
 <!---
